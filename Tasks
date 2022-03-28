@@ -1,0 +1,16 @@
+tasks:
+	-Book names 
+		: sorted by release date from earliest to newest ✓
+		: each book name should be listed along with authors and count of comments ✓
+	- Store comments ✓
+	- Show errors where necessary ✓
+	- Sort characters by gender/name/age in asc/desc order ✓
+	- Filter by gender ✓
+	- Response should have 
+		: no. characters being returned  ✓
+		: total age of all characters, in years ✓
+	- Comments retrieved in reverse chronological order ✓
+	- Retrive with IP Address and UTC time&date stored ✓
+	- Comment length not past 500 char ✓
+	- In github, public
+	- Deploy to Heroku
